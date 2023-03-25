@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 <!--
 **bikalpa977/bikalpa977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Bikalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikalpa977)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikalpa977" alt="bikalpa977" /> </p>
+![Bikalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikalpa977&count_private=true@theme=radical)
